@@ -1,0 +1,14 @@
+[project]
+name = "displayEmulatorClient"
+version = "0.1.0"
+requires-python = ">=3.12"
+
+authors = [
+    { name = "Михаил", email = "you@example.com" }
+]
+
+dependencies = [
+    "loguru>=0.7.3",
+    "numpy>=2.3.3",
+    "opencv-python>=4.12.0.88",
+]
