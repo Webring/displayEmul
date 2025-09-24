@@ -1,0 +1,6 @@
+server/target
+*/.idea
+.idea
+*/__pycache__
+client/.venv
+.DS_Store
